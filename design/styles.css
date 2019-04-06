@@ -1,0 +1,29 @@
+.home{
+    box-sizing: border-box;
+    width: 100%;
+}
+.home .header{
+    height: 150px;
+    background-color: #eb8484;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+.home .top-menu {
+    background-color: #3b3b3b;
+    color: white;
+}
+.home .top-menu a{
+    color: white;
+    text-decoration: none;
+}
+.home .top-menu .menu-s{
+    cursor: pointer;
+}
+.home .top-menu .menu-li {
+    display: inline-block;
+    list-style: none;
+    width: 50px;
+    margin: 10px;
+    padding: 5px;
+}
